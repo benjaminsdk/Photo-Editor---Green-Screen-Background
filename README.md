@@ -1,5 +1,11 @@
 # Photo-Editor---Green-Screen-Background
 
+## Enviroment and Setup
+
+Install Python 3.7
+
+Import matplotlib.pyplot, numpy, imageio into your Python IDE
+
 ## Approach
 
 The python code runs through each pixel of lion.jpg in a 2D array methodology. 
