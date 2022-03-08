@@ -3,6 +3,7 @@
 ## Approach
 
 The python code runs through each pixel of lion.jpg in a 2D array methodology. 
+
 If the pixel has a Green value of above a preset number, it replaces the green pixel with snow.jpg 
 
 ## Results
